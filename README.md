@@ -26,5 +26,5 @@ Working with strings and dictionaries, two fundamental Python data types
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 
 <p align="center">
-  <img width="1000" height="618.18" src="https://github.com/lis-r-barreto/learn-python-kaggle/blob/master/certificate.png">
+  <img width="1000" height="618.18" src="https://github.com/lis-r-barreto/learn-python-kaggle/blob/main/certificate.png">
 </p>
